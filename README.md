@@ -1,5 +1,7 @@
 # Discord-Active-Developer-Badge
-A simple Discord bot built with Nextcord to help you get the Discord Active Developer Badge.
+Discord bot to help you get the Active Developer Badge - just invite and run /ping
+
+---
 
 Hello everyone! If you want to get the Discord Active Developer Badge, you just need to follow a few simple steps. But before starting, make sure you have a Discord Bot Token:
 
