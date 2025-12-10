@@ -1,4 +1,5 @@
-# Discord-Active-Developer-Badge
+# Discord-Active-Developer-Badge (NOT ACTUAL ANYMORE, DUE TO DISCORD DECISION ABOUT BADGE)
+
 Discord bot to help you get the Active Developer Badge - just invite and run /ping
 
 ---
